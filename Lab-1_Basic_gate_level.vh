@@ -1,4 +1,4 @@
-Testbench Code:
+// Testbench Code:
 
 module tb();
 reg tb_a, tb_b;
@@ -38,7 +38,7 @@ end
 endmodule
 
 
-Design Code:
+// Design Code:
 
 // Commenting a single line
 /* For commenting in multiple 
